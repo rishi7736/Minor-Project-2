@@ -1,12 +1,12 @@
-## Enhancing seizure detection using deep learning models
-### Overview
+# Enhancing seizure detection using deep learning models
+## Overview
 This repository contains the implementation of a deep learning-based seizure detection model, designed to be integrated into wearable devices. By leveraging multimodal sensor data, our approach enhances seizure recognition accuracy, ultimately improving patient care and intervention strategies.
-### Table of Contents 
+## Table of Contents 
 - [Dataset overview](#Dataset)
 - [Usage](#Usage)
 - [Installation](#Installation)
   
-### Dataset Overiew
+## Dataset Overiew
 The dataset used in this project consists of sensor readings from wearable devices, capturing:
   - **Electrodermal Activity (EDA):** Measures skin conductance to detect stress and autonomic responses.
   - **Accelerometer (ACC):** Captures movement patterns to identify seizure-related tremors.
@@ -16,7 +16,7 @@ The dataset used in this project consists of sensor readings from wearable devic
   
 To improve detection accuracy, we preprocess the dataset by removing unnecessary features and splitting it into training and validation sets.
 
-### Usage
+## Usage
 This project has a wide range of applications across different fields:
 
   #### 1. Healthcare & Patient Monitoring
@@ -31,7 +31,7 @@ This project has a wide range of applications across different fields:
   ##### 5. Telemedicine & Remote Healthcare
   - Can be used in telehealth applications to provide remote monitoring solutions for epilepsy patients, reducing the need for hospital visits.
 
-### Installation
+## Installation
 
 #### Clone the repository:
     git clone https://github.com/rishi7736/Minor-Project-2.git
