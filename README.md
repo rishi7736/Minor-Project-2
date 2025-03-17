@@ -37,9 +37,7 @@ This project has a wide range of applications across different fields:
 #### Clone the repository:
     git clone https://github.com/rishi7736/Minor-Project-2.git
     cd Minor-Project-2
-
 #### Install dependencies:
     pip install -r requirements.txt
-
 #### Run the script:
     python mp-final.ipynb
