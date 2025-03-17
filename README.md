@@ -1,4 +1,4 @@
-# ENHANCE SEIZURE DETECTION USING DEEP LEARNING MODELS
+## ENHANCE SEIZURE DETECTION USING DEEP LEARNING MODELS
 ## Overview
 This repository contains the implementation of a deep learning-based seizure detection model, designed to be integrated into wearable devices. By leveraging multimodal sensor data, our approach enhances seizure recognition accuracy, ultimately improving patient care and intervention strategies.
 ## Table of Contents 
