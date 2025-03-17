@@ -31,6 +31,7 @@ This project has a wide range of applications across different fields:
   ### **5. Telemedicine & Remote Healthcare**
   - Can be used in telehealth applications to provide remote monitoring solutions for epilepsy patients, reducing the need for hospital visits.
 
+
 ## Installation
 
 #### Clone the repository:
