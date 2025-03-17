@@ -22,6 +22,7 @@ This project has a wide range of applications across different fields:
   **1. Healthcare & Patient Monitoring**
   - Personal Use: Individuals with epilepsy can use it for continuous monitoring and seizure prediction.
   - Hospital & Clinical Settings: Can be integrated into hospital monitoring systems to assist doctors in real-time seizure detection.
+    
   **2. Emergency Response & Caregiver Support**
   - Alerts caregivers, family members, and emergency responders immediately upon detecting a seizure, ensuring timely intervention.
   **3. Wearable Technology & IoT Devices**
