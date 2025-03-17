@@ -19,16 +19,16 @@ To improve detection accuracy, we preprocess the dataset by removing unnecessary
 ## Usage
 This project has a wide range of applications across different fields:
 
-  #### 1. Healthcare & Patient Monitoring
+  **1. Healthcare & Patient Monitoring**
   - Personal Use: Individuals with epilepsy can use it for continuous monitoring and seizure prediction.
   - Hospital & Clinical Settings: Can be integrated into hospital monitoring systems to assist doctors in real-time seizure detection.
-  #### 2. Emergency Response & Caregiver Support
+  **2. Emergency Response & Caregiver Support**
   - Alerts caregivers, family members, and emergency responders immediately upon detecting a seizure, ensuring timely intervention.
-  #### 3. Wearable Technology & IoT Devices
+  **3. Wearable Technology & IoT Devices**
   - Can be integrated into smartwatches, fitness trackers, and medical wearables to enhance real-time health monitoring.
-  #### 4. AI-Powered Research & Development
+  **4. AI-Powered Research & Development**
   - Researchers and healthcare professionals can use the system to analyze seizure patterns and improve epilepsy treatment strategies.
-  ##### 5. Telemedicine & Remote Healthcare
+  **5. Telemedicine & Remote Healthcare**
   - Can be used in telehealth applications to provide remote monitoring solutions for epilepsy patients, reducing the need for hospital visits.
 
 ## Installation
